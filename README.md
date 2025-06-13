@@ -1,4 +1,4 @@
-Lunch Tray Practice Problem - Solution Code
-==================================
+Solución del problema de práctica de la bandeja del almuerzo
+===================================
 
-Solution code for the Jetpack Compose Navigation practice problems
+Solución del problema de práctica de navegación de Jetpack Compose
